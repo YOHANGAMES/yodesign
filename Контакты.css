@@ -1,0 +1,31 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, black, #666666);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 720px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 0 0 38px rgba(104,0,255,1);
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  text-shadow: 0 0 38px rgba(255,255,255,1);
+  margin: 203px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-size: 1.875rem;
+  margin: 26px auto 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-3 {
+    font-size: 1.3125rem;
+  }
+}
